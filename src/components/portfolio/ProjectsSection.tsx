@@ -12,8 +12,8 @@ const projects = [
     description: "A modern portfolio website designed to showcase my skills, projects, and experience through a clean, responsive, and engaging interface with smooth animations.",
     image: project1,
     tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    liveUrl: "https://mdarsad-portfolio.vercel.app",
-    githubUrl: "https://github.com/mdarsad-5311/portfolio",
+    liveUrl: "#",
+    githubUrl: "#",
     featured: true,
   },
   {
@@ -21,8 +21,8 @@ const projects = [
     description: "A complete Hospital ERP System designed to manage hospital operations efficiently, including patient records, appointments, billing, staff management, and real-time reporting through a secure, responsive interface.",
     image: project2,
     tags: ["React", "JavaScript", "Node.js", "MongoDB"],
-    liveUrl: "https://hospital-erp-demo.vercel.app",
-    githubUrl: "https://github.com/mdarsad-5311/hospital-erp",
+    liveUrl: "#",
+    githubUrl: "#",
     featured: true,
   },
   {
@@ -30,8 +30,8 @@ const projects = [
     description: "A modern e-commerce platform with product listings, advanced search and filters, shopping cart, secure checkout, and user account management, designed for fast and seamless online shopping.",
     image: project3,
     tags: ["Python", "Django", "PostgreSQL", "Stripe"],
-    liveUrl: "https://ecommerce-demo.herokuapp.com",
-    githubUrl: "https://github.com/mdarsad-5311/ecommerce-platform",
+    liveUrl: "#",
+    githubUrl: "#",
     featured: true,
   },
 ];
