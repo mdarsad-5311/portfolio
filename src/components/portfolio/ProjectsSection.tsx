@@ -3,6 +3,7 @@ import { useRef } from "react";
 import { ExternalLink, Github } from "lucide-react";
 import { Button } from "../ui/button";
 import project1 from "../../assets/image.png";
+import image1 from "../../assets/image1.png";
 import project2 from "../../assets/hosp.png";
 import project3 from "../../assets/ecom.jpeg";
 
@@ -12,6 +13,15 @@ const projects = [
     description: "A modern portfolio website designed to showcase my skills, projects, and experience through a clean, responsive, and engaging interface with smooth animations.",
     image: project1,
     tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    liveUrl: "#",
+    githubUrl: "#",
+    featured: true,
+  },
+  {
+    title: "Portfolio Website",
+    description: "A modern portfolio website designed to showcase my skills, projects, and experience through a clean, responsive, and engaging interface with smooth animations.",
+    image: image1,
+    tags: ["React", "JavaScript", "Tailwind CSS"],
     liveUrl: "#",
     githubUrl: "#",
     featured: true,
