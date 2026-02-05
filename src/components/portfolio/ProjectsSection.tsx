@@ -22,7 +22,7 @@ const projects = [
     description: "A modern portfolio website designed to showcase my skills, projects, and experience through a clean, responsive, and engaging interface with smooth animations.",
     image: image1,
     tags: ["React", "JavaScript", "Tailwind CSS"],
-    liveUrl: "#",
+    liveUrl: "https://al-umaima-portfolio.vercel.app/",
     githubUrl: "#",
     featured: true,
   },
