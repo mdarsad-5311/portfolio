@@ -2,18 +2,18 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { ExternalLink, Github } from "lucide-react";
 import { Button } from "../ui/button";
-import project1 from "../../assets/image.png";
+import project1 from "../../assets/arsad.png";
 import image1 from "../../assets/image1.png";
 import project2 from "../../assets/hosp.png";
-import project3 from "../../assets/ecom.jpeg";
+import project3 from "../../assets/school.png";
 
 const projects = [
   {
     title: "Portfolio Website",
     description: "A modern portfolio website designed to showcase my skills, projects, and experience through a clean, responsive, and engaging interface with smooth animations.",
     image: project1,
-    tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    liveUrl: "https://portfolio-delta-sooty-70.vercel.app/",
+    tags: ["next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    liveUrl: "https://my-new-portfolio-orpin-six.vercel.app",
     githubUrl: "#",
     featured: true,
   },
@@ -36,11 +36,11 @@ const projects = [
     featured: true,
   },
   {
-    title: "E-Commerce Platform",
-    description: "A modern e-commerce platform with product listings, advanced search and filters, shopping cart, secure checkout, and user account management, designed for fast and seamless online shopping.",
+    title: "School ERP System",
+    description: "A modern school ERP system with student management, attendance tracking, grade reporting, and administrative tools for efficient school operations.",
     image: project3,
-    tags: ["Python", "Django", "PostgreSQL", "Stripe"],
-    liveUrl: "#",
+    tags: ["React", "TypeScript", "Tailwind CSS"],
+    liveUrl: "https://school-erp-orpin.vercel.app/",
     githubUrl: "#",
     featured: true,
   },
